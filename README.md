@@ -14,3 +14,10 @@ Problems Solved:
 1. Maximum Subarray
 2. Contains Duplicate
 3. Maximum Average Subarray I
+
+Week 1 Day 3 Completed 
+
+Problems Solved:
+1. Move Zeroes
+2. Squares of a sorted array
+3. Containers with most water
