@@ -22,3 +22,10 @@ Problems Solved:
 1. Move Zeroes
 2. Squares of a sorted array
 3. Containers with most water
+
+Week 1 Day 4 Completed 
+
+Problems Solved:
+1. Matrix diagonal sum
+2. Reshape the matrix
+3. spiral matrix
